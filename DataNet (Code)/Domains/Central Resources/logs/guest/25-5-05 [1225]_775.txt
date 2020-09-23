@@ -1,0 +1,67 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+GUEST>ç
+GUEST>çmodules
+
+Loaded module listing...
+
+USR:
+Member of the Standard control library; the user (usr)
+module holds a range of commands that enables the user
+to manipulate user accounts within the domain.
+Command list: usr.help
+---
+SES:
+Member of the Standard control library; the session (ses)
+module holds a range of commands that enables the user
+to manipulate current sessions within the domain.
+Command list: ses.help
+---
+SCR:
+Member of the Standard control library; the screen (scr)
+module holds a range of commands that enables the user
+to manipulate their display/terminal.
+Command list: scr.help
+---
+SYS:
+Member of the Standard control library; the system (sys)
+module holds a range of commands that enables the user
+to carry out system processes files.
+Command list: sys.help
+---
+TXT:
+Member of the Standard control library; the text (txt)
+module holds a range of commands that enables the user
+to write to files, and read them.
+Command list: txt.help
+---
+COM:
+Member of the Standard control library; the communications
+(com) module holds a range of commands that enables users
+to communicate with one another.
+Command list: com.help
+---
+EXE:
+Member of the Standard control library; the execute (exe)
+module holds a few of commands that enables the user
+to execute console apps and scripts.
+Command list: exe.help
+---
+OVR:
+Member of the Standard control library; the override (ovr)
+module holds a range of commands that enables the user
+to create override codes, and initiate them.
+Command list: ovr.help
+---
+:
+---
+:
+---
+Module listing complete.
+
+GUEST>ç

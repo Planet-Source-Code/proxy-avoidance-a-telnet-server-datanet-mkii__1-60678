@@ -1,0 +1,19 @@
+
+The script for this domain will display the current user information,
+then 'adopt' the SYS module to create a DOS environment.
+
+Current user information...
+Archive Index: 0
+Username: admin
+Realname: Service Administrator
+Level: Service Admin
+Status: Enabled
+
+System module initialized.
+Force enabled.
+'sys' module adopted.
+
+This example domain has all of the Standard
+modules loaded.
+
+EXAMPLE DOMAIN 1\USERS\ADMIN>ç

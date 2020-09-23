@@ -1,0 +1,37 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+                            0 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+Access Denied.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+Access Denied.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+                            0 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdel poo
+File not found.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çmd poo
+Directory created.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdel *.*
+File(s) deleted.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>ç

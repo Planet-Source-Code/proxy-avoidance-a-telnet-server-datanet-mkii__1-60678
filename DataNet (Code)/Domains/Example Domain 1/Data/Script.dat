@@ -1,0 +1,10 @@
+SCR.ECHO The script for this domain will display the current user information,
+SCR.ECHO then 'adopt' the SYS module to create a DOS environment.
+USR.MYINFO
+SCR.ECHO
+Sys.Init
+Sys.Force 1
+mod:sys
+SCR.ECHO
+SCR.ECHO This example domain has all of the Standard
+SCR.ECHO modules loaded.

@@ -1,0 +1,11 @@
+SCR.ECHO The script for this domain will display the current
+SCR.ECHO user's Director contents using the SYS dir command:
+Sys.Init
+Sys.Force 1
+sys.DIR
+SCR.ECHO
+mod:sys
+SCR.ECHO
+SCR.ECHO This example domain only has four of the
+SCR.ECHO ten modules loaded, to see which modules
+SCR.ECHO are loaded, type MODULES

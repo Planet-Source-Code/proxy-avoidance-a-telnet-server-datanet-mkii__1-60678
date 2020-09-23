@@ -1,0 +1,103 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>ç[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çdel
+Command restricted.
+
+GUEST>çdel poo
+Command restricted.
+
+GUEST>çcom:del
+Command restricted.
+
+GUEST>çwhat
+Unknown command.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+poo
+                            2 File(s)
+                            1 Dir(s)
+
+GUEST>çdel poo
+Command restricted.
+
+GUEST>çcd msg attach
+Command restricted.
+
+GUEST>çdel poo
+Command restricted.
+
+GUEST>çcd msg attach
+
+GUEST\MSG ATTACH>çdir
+
+ Directory of GUEST\MSG ATTACH
+
+Test Mail_624                 [DIR]
+Test Mail_510                 [DIR]
+                            0 File(s)
+                            2 Dir(s)
+
+GUEST\MSG ATTACH>ç
+GUEST\MSG ATTACH>ç
+GUEST\MSG ATTACH>ç
+GUEST\MSG ATTACH>ç
+GUEST\MSG ATTACH>ç 
+Unknown command.
+
+GUEST\MSG ATTACH>ç
+GUEST\MSG ATTACH>çcd \
+
+GUEST>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+poo
+                            2 File(s)
+                            1 Dir(s)
+
+GUEST>çrd
+Command restricted.
+
+GUEST>ç rd
+Command restricted.
+
+GUEST>ç rd   
+Command restricted.
+
+GUEST>çRD
+Command restricted.
+
+GUEST>ç R D 
+Unknown command.
+
+GUEST>ç RD   
+Command restricted.
+
+GUEST>ç

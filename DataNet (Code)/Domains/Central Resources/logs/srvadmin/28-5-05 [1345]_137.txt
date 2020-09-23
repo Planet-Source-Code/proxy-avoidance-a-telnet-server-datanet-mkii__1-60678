@@ -1,0 +1,18 @@
+
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+'sys' module adopted.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd \
+Unknown command.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>ç

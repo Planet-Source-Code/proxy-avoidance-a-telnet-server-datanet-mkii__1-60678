@@ -1,0 +1,52 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+New.txt
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST>çatr
+Access Denied.
+
+GUEST>çtxt.open new.txt
+File opened.
+
+GUEST>çtxt./ hi
+Access Denied.
+
+GUEST>çtxt.read
+File contents...
+
+0  : Tester, You should only be able to read this file.
+
+GUEST>çtxt./ hi
+Access Denied.
+
+GUEST>çtxt./ hi
+Line added.
+
+GUEST>çtxt./ hi
+Access Denied.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST>çtxt.read
+File contents...
+
+0  : Tester, You should only be able to read this file.
+52 : hi
+
+GUEST>ç

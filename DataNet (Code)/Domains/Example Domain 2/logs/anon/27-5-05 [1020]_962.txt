@@ -1,0 +1,17 @@
+
+The script for this domain will display
+the current user's Director contents
+using the SYS dir command:
+System module initialized.
+Force enabled.
+
+ Directory of ANON
+
+                            0 File(s)
+                            0 Dir(s)
+'sys' module adopted.
+This example domain only has four of the
+eight modules loaded, to see which modules
+are loaded, type MODULES
+
+ANON>ç

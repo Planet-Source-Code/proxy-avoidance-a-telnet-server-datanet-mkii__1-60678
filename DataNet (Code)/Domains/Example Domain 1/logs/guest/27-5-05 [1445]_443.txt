@@ -1,0 +1,37 @@
+
+The script for this domain will display the current user information,
+then 'adopt' the SYS module to create a DOS environment.
+
+Current user information...
+Archive Index: 1
+Username: guest
+Realname: Test User
+Level: Guest
+Status: Enabled
+
+System module initialized.
+Force enabled.
+'sys' module adopted.
+
+This example domain has all of the Standard
+modules loaded.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+                            0 File(s)
+                            0 Dir(s)
+
+GUEST>çmd hi
+Directory created.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+hi                            [DIR]
+                            0 File(s)
+                            1 Dir(s)
+
+GUEST>ç

@@ -1,0 +1,95 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmodules
+
+Loaded module listing...
+
+USR:
+Member of the Standard control library; the user (usr)
+module holds a range of commands that enables the user
+to manipulate user accounts within the domain.
+Command list: usr.help
+---
+SES:
+Member of the Standard control library; the session (ses)
+module holds a range of commands that enables the user
+to manipulate current sessions within the domain.
+Command list: ses.help
+---
+SCR:
+Member of the Standard control library; the screen (scr)
+module holds a range of commands that enables the user
+to manipulate their display/terminal.
+Command list: scr.help
+---
+SYS:
+Member of the Standard control library; the system (sys)
+module holds a range of commands that enables the user
+to carry out system processes files.
+Command list: sys.help
+---
+TXT:
+Member of the Standard control library; the text (txt)
+module holds a range of commands that enables the user
+to write to files, and read them.
+Command list: txt.help
+---
+COM:
+Member of the Standard control library; the communications
+(com) module holds a range of commands that enables users
+to communicate with one another.
+Command list: com.help
+---
+EXE:
+Member of the Standard control library; the execute (exe)
+module holds a few of commands that enables the user
+to execute console apps and scripts.
+Command list: exe.help
+---
+OVR:
+Member of the Standard control library; the override (ovr)
+module holds a range of commands that enables the user
+to create override codes, and initiate them.
+Command list: ovr.help
+---
+PRO:
+Member of the Generation 1 control library; the process (pro)
+module holds a range of commands that enables the user
+to carry out commands that can intereact with the system processes.
+Command list: pro.help
+---
+MSG:
+Member of the Generation 1 control library; the message (msg)
+module enables users to send mail messages to
+other users.
+Command list: msg.help
+---
+Module listing complete.
+
+GUEST>çmsg.new Tester
+
+
+
+Unknown command.
+
+GUEST>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>ç

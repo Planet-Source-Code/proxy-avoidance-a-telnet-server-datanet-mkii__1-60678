@@ -1,0 +1,25 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd ..
+
+CENTRAL RESOURCES\USERS>çcd ..
+
+CENTRAL RESOURCES>çdir
+
+ Directory of CENTRAL RESOURCES
+
+Users                         [DIR]
+logs                          [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES>ç

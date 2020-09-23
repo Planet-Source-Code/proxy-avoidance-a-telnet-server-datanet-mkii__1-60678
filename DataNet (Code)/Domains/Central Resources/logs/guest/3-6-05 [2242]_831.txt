@@ -1,0 +1,117 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+GUEST>ç
+GUEST>çdir
+
+GUEST>çdir
+
+GUEST>çsys.dir
+
+GUEST>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+                            1 File(s)
+                            1 Dir(s)
+
+GUEST>çhelp
+
+Help page for SYS module...
+INIT               -Initializes module, must be executed to use module.
+TIME               -Displays the time on the server.
+DATE               -Displays the date on the server.
+DIR                -Displays current directory contents.
+[Drive]:           -Switches to a different drive (system admin only).
+CD [Dir]           -Changes directory (by default uses the ':' wildcard).
+MD [DirPath]       -Creates a new directory.
+RD [DirPath]       -Deletes specified directory.
+COPY [FilePath]    -Copies specifed file(s) to current directory.
+DEL [FilePath]     -Deletes specifed file(s).
+ATR [Path]         -Changes the attributes to the specifed item(s).
+         :[R] :[H]  Replace the R and H with either 1 or 0 to set the attribs
+                    to the specified item (these come after the path).
+ATR Text.txt :0 :1  This example would set the txt file to hidden.
+MOVE [FilePath]    -Copies specifed file(s) to current directory.
+FORCE [Option]     -Enables\disables forceful mode.
+                    0=Disabled [Default]
+                    1=Enabled
+
+EXAMPLES:           WILD CARDS:
+COPY ??llo.txt      ?=Variable character
+COPY *.txt          *=Variable name
+CD :Dir1            :=Abbreviation for the current dir.
+CD \                \=Abbreviation for the root dir.
+CD ..              ..=Abbreviation for the previus dir.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+                            1 File(s)
+                            1 Dir(s)
+
+GUEST>çdel users.tmp
+Access Denied.
+
+GUEST>çtxt.open poo
+File opened.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+poo
+                            2 File(s)
+                            1 Dir(s)
+
+GUEST>çdel poo
+Access Denied.
+
+GUEST>çcd msg attach
+
+GUEST\MSG ATTACH>çdir
+
+ Directory of GUEST\MSG ATTACH
+
+Test Mail_624                 [DIR]
+Test Mail_510                 [DIR]
+                            0 File(s)
+                            2 Dir(s)
+
+GUEST\MSG ATTACH>çcd test mail_624
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdir
+
+ Directory of GUEST\MSG ATTACH\TEST MAIL_624
+
+USERS.TMP
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdel users.tmp
+File(s) deleted.
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdir
+
+ Directory of GUEST\MSG ATTACH\TEST MAIL_624
+
+                            0 File(s)
+                            0 Dir(s)
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdel oo
+File not found.
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdelCommand restricted.
+
+GUEST\MSG ATTACH\TEST MAIL_624>ç

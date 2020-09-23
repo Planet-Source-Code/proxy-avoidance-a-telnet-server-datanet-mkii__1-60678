@@ -1,0 +1,490 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmsg.new Tester[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST#
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çTest message.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+Test message.
+
+MESSAGE>çThis is only a test and is not to be taken seriously.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+Test message.
+This is only a test and is not to be taken seriously.
+
+MESSAGE>çHowever your server is about to crash.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+Test message.
+This is only a test and is not to be taken seriously.
+However your server is about to crash.
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+
+->Sending message...
+'GUEST#' is an invalid address.
+
+guest>çmsg.new Tester[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çgnfgifdndflndkvlcxlv[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+
+MESSAGE>çfgddxgdgdgd[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+fgddxgdgdgd
+
+MESSAGE>çggfdgfd[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+fgddxgdgdgd
+ggfdgfd
+
+MESSAGE>çgfdghfgfdfd[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+fgddxgdgdgd
+ggfdgfd
+gfdghfgfdfd
+
+MESSAGE>çgfdgfdgfgfdgvdv[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+fgddxgdgdgd
+ggfdgfd
+gfdghfgfdfd
+gfdgfdgfgfdgvdv
+
+MESSAGE>çgdfgfdgfgf  fdbfdbfdhbdfb[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+gnfgifdndflndkvlcxlv
+fgddxgdgdgd
+ggfdgfd
+gfdghfgfdfd
+gfdgfdgfgfdgvdv
+gdfgfdgfgf  fdbfdbfdhbdfb
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+
+->Sending message...
+'GUEST' is an invalid address.
+
+guest>ç
+guest>çmsg.new
+Your message must have a subject.
+
+guest>çmsg.new Test[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çvxcgcxvncxvlkcxnl[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter your message. When you are finished type #
+
+vxcgcxvncxvlkcxnl
+
+MESSAGE>çmvcxvcvmcl[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter your message. When you are finished type #
+
+vxcgcxvncxvlkcxnl
+mvcxvcvmcl
+
+MESSAGE>çvmkfcvcxol[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+Please enter your message. When you are finished type #
+
+vxcgcxvncxvlkcxnl
+mvcxvcvmcl
+vmkfcvcxol
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test
+===========================================================================
+
+->Sending message...
+'GUEST' is an invalid address.
+
+guest>çmsg.new Tester[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest@central[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST@CENTRAL
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çmvgxc[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+mvgxc
+
+MESSAGE>çxvxvcx#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+mvgxc
+xvxvcx#
+
+MESSAGE>çgnbvnggbngngng[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+mvgxc
+xvxvcx#
+gnbvnggbngngng
+
+MESSAGE>çhfgngnxvcncvnc#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+Please enter your message. When you are finished type #
+
+mvgxc
+xvxvcx#
+gnbvnggbngngng
+hfgngnxvcncvnc#
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+
+->Sending message...
+'GUEST@CENTRAL' received message.
+
+guest>ç
+guest>çmsg.help
+
+Help page for MSG module...
+NEW [Subject]      -Creates a new email.
+LIST               -Lists all emails in your inbox.
+READ [Index]       -Reads specified email.
+GET [Index]        -Retreives attachments from specified email.
+DEL [Index]        -Deletes specified email.
+
+guest>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Tester                 From: GUEST@CENTRAL          (NEW)
+
+guest>çmsg.read 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [21:45:21]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+
+mvgxc
+xvxvcx#
+gnbvnggbngngng
+hfgngnxvcncvnc#
+
+guest>ç

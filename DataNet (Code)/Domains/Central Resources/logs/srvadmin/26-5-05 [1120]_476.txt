@@ -1,0 +1,68 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>ç
+CENTRAL RESOURCES\USERS\SRVADMIN>çtxt.open hi.txt
+File opened.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+poo                           [DIR]
+hi.txt
+                            2 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çatr poo
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    False
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd poo
+
+CENTRAL RESOURCES\USERS\SRVADMIN\POO>çmove ..hi.txt
+File(s) moved.
+
+CENTRAL RESOURCES\USERS\SRVADMIN\POO>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN\POO
+
+hi.txt
+                            1 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN\POO>çatr hi.txt :1 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+
+CENTRAL RESOURCES\USERS\SRVADMIN\POO>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN\POO
+
+hi.txt
+                            1 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN\POO>çcd ..
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çmove hi.txt
+File not found.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+poo                           [DIR]
+                            1 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çmove poo\hi.txt
+Access Denied.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>ç

@@ -1,0 +1,435 @@
+[33m[40m[2J[H[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f
+
+CHAT>çexit
+Chatroom mode disabled.
+
+anon>çmsg.list
+
+Retrieving emails in inbox...
+
+
+anon>çmsg.list
+
+Retrieving emails in inbox...
+
+
+anon>çmsg.list
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL          (NEW)
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çmsg.read 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Hi
+This is a test message.
+
+
+anon>çmsg.read 1
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 3
+         DATE SENT: 03/06/2005 [15:07:44]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+hi
+
+
+anon>çmsg.get 3
+Email does not contain any attachments.
+
+anon>ç
+anon>çmsg.read 2
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [15:12:30]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+
+
+
+hi
+
+
+
+anon>çmsg.get 2
+Email does not contain any attachments.
+
+anon>çmsg.read 3
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [18:33:55]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+
+Hi,
+this is an attachment
+thank
+
+anon>çmsg.get 3
+Email does not contain any attachments.
+
+anon>çmsg.read 4
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [18:37:39]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+Hello lads.
+
+anon>çmsg.get 4
+Email does not contain any attachments.
+
+anon>çmsg.read 5
+Could not read email.
+
+anon>çmsg.list
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL          (NEW)
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çmsg.read 3
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [18:33:55]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+
+Hi,
+this is an attachment
+thank
+
+anon>çmsg.get 0
+Email does not contain any attachments.
+
+anon>çmsg.get 1
+
+Retrieving attachments...
+
+
+anon>çdir
+Invalid command.
+
+anon>çmsg.get 1
+
+Retrieving attachments...
+
+0 attachments retrieved.
+
+anon>çmsg.get 2
+
+Retrieving attachments...
+
+0 attachments retrieved.
+
+anon>çmsg.get 3
+
+Retrieving attachments...
+
+1 attachments retrieved.
+
+anon>çmsg.get 4
+
+Retrieving attachments...
+
+1 attachments retrieved.
+
+anon>çmsg.get 5
+Error retrieving attachments.
+
+anon>çmsg.get 5
+Error retrieving attachments.
+
+anon>çmsg.get 5
+Error retrieving attachments.
+
+anon>çmsg.get 5
+Error retrieving attachments.
+
+anon>çmsg.get 5
+Invalid index, type MSG.LIST.
+
+anon>çmsg.get 4
+
+Retrieving attachments...
+
+1 attachments retrieved.
+
+anon>çsys.dir
+Unknown command.
+
+anon>çmsg.list
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL          (NEW)
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çmsg.get 0
+Email does not contain any attachments.
+
+anon>çmsg.get 1
+
+Retrieving attachments...
+0 attachments retrieved.
+
+anon>çmod:msg
+'msg' module adopted.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL          (NEW)
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çread 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Hi
+This is a test message.
+
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL          (NEW)
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çread 3
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [18:33:55]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+
+Hi,
+this is an attachment
+thank
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL          (NEW)
+3] Attach                 From: GUEST@CENTRAL
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çread 2
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [15:12:30]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+
+
+
+hi
+
+
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+2] poo                    From: GUEST@CENTRAL
+3] Attach                 From: GUEST@CENTRAL
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çread 1
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 3
+         DATE SENT: 03/06/2005 [15:07:44]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+hi
+
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL
+2] poo                    From: GUEST@CENTRAL
+3] Attach                 From: GUEST@CENTRAL
+4] poo                    From: GUEST@CENTRAL          (NEW)
+
+anon>çread 4
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [18:37:39]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+Hello lads.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL
+2] poo                    From: GUEST@CENTRAL
+3] Attach                 From: GUEST@CENTRAL
+4] poo                    From: GUEST@CENTRAL
+
+anon>çmsg.get 4
+
+Retrieving attachments...
+1 attachments retrieved.
+
+anon>çmod:msg
+'msg' module adopted.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Local             From: ANON@CHAT
+1] Test Mail              From: GUEST@CENTRAL
+2] poo                    From: GUEST@CENTRAL
+3] Attach                 From: GUEST@CENTRAL
+4] poo                    From: GUEST@CENTRAL
+
+anon>çdel 0
+Could not delete email.
+
+anon>çdel 0
+Email deleted.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] Test Mail              From: GUEST@CENTRAL
+1] poo                    From: GUEST@CENTRAL
+2] Attach                 From: GUEST@CENTRAL
+3] poo                    From: GUEST@CENTRAL
+
+anon>çdel 0
+Email deleted.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] poo                    From: GUEST@CENTRAL
+1] Attach                 From: GUEST@CENTRAL
+2] poo                    From: GUEST@CENTRAL
+
+anon>çdel 1
+Email deleted.
+
+anon>çlist
+
+Retrieving emails in inbox...
+
+0] poo                    From: GUEST@CENTRAL
+1] poo                    From: GUEST@CENTRAL
+
+anon>çdel 1
+Email deleted.
+
+anon>çdel 1
+Could not delete email.
+
+anon>çdel 0
+Email deleted.
+
+anon>çread 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+Could not read email.
+
+anon>ç
+anon>çlist
+
+Retrieving emails in inbox...
+
+
+anon>çdel 0
+
+Retrieving emails in inbox...
+
+Email deleted.
+
+anon>çdel 98
+Invalid index, type MSG.LIST.
+
+anon>çdel 0
+Could not delete email.
+
+anon>çdel 0
+Could not delete email.
+
+anon>ç

@@ -1,0 +1,456 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>ç
+GUEST>çmodules
+
+Loaded module listing...
+
+USR:
+Member of the Standard control library; the user (usr)
+module holds a range of commands that enables the user
+to manipulate user accounts within the domain.
+Command list: usr.help
+---
+SES:
+Member of the Standard control library; the session (ses)
+module holds a range of commands that enables the user
+to manipulate current sessions within the domain.
+Command list: ses.help
+---
+SCR:
+Member of the Standard control library; the screen (scr)
+module holds a range of commands that enables the user
+to manipulate their display/terminal.
+Command list: scr.help
+---
+SYS:
+Member of the Standard control library; the system (sys)
+module holds a range of commands that enables the user
+to carry out system processes files.
+Command list: sys.help
+---
+TXT:
+Member of the Standard control library; the text (txt)
+module holds a range of commands that enables the user
+to write to files, and read them.
+Command list: txt.help
+---
+COM:
+Member of the Standard control library; the communications
+(com) module holds a range of commands that enables users
+to communicate with one another.
+Command list: com.help
+---
+EXE:
+Member of the Standard control library; the execute (exe)
+module holds a few of commands that enables the user
+to execute console apps and scripts.
+Command list: exe.help
+---
+OVR:
+Member of the Standard control library; the override (ovr)
+module holds a range of commands that enables the user
+to create override codes, and initiate them.
+Command list: ovr.help
+---
+PRO:
+Member of the Generation 1 control library; the process (pro)
+module holds a range of commands that enables the user
+to carry out commands that can intereact with the system processes.
+Command list: pro.help
+---
+MSG:
+Member of the Generation 1 control library; the message (msg)
+module enables users to send mail messages to
+other users.
+Command list: msg.help
+---
+Module listing complete.
+
+GUEST>çmodule
+Unknown command.
+
+GUEST>çmodules
+
+Loaded module listing...
+
+USR:
+Member of the Standard control library; the user (usr)
+module holds a range of commands that enables the user
+to manipulate user accounts within the domain.
+Command list: usr.help
+---
+SES:
+Member of the Standard control library; the session (ses)
+module holds a range of commands that enables the user
+to manipulate current sessions within the domain.
+Command list: ses.help
+---
+SCR:
+Member of the Standard control library; the screen (scr)
+module holds a range of commands that enables the user
+to manipulate their display/terminal.
+Command list: scr.help
+---
+SYS:
+Member of the Standard control library; the system (sys)
+module holds a range of commands that enables the user
+to carry out system processes files.
+Command list: sys.help
+---
+TXT:
+Member of the Standard control library; the text (txt)
+module holds a range of commands that enables the user
+to write to files, and read them.
+Command list: txt.help
+---
+COM:
+Member of the Standard control library; the communications
+(com) module holds a range of commands that enables users
+to communicate with one another.
+Command list: com.help
+---
+EXE:
+Member of the Standard control library; the execute (exe)
+module holds a few of commands that enables the user
+to execute console apps and scripts.
+Command list: exe.help
+---
+OVR:
+Member of the Standard control library; the override (ovr)
+module holds a range of commands that enables the user
+to create override codes, and initiate them.
+Command list: ovr.help
+---
+PRO:
+Member of the Generation 1 control library; the process (pro)
+module holds a range of commands that enables the user
+to carry out commands that can intereact with the system processes.
+Command list: pro.help
+---
+MSG:
+Member of the Generation 1 control library; the message (msg)
+module enables users to send mail messages to one another.
+Command list: msg.help
+---
+Module listing complete.
+
+GUEST>çmsg.help
+
+Help page for MSG module...
+NEW [Subject]      -Creates a new email.
+LIST               -Lists all emails in your inbox.
+READ [Index]       -Reads specified email.
+GET [Index]        -Retreives attachments from specified email.
+DEL [Index]        -Deletes specified email.
+MYINFO             -Displays your email address.
+
+GUEST>çmsg.myinfo
+This is your email address: GUEST@CENTRAL
+
+GUEST>çmsg.list
+
+Retrieving emails in inbox...
+
+
+GUEST>çdir
+
+ Directory of GUEST
+
+Users.tmp
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST>çmsg.new Test Mail[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest@central[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST@CENTRAL - Valid address.
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çusers.tmp[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - File ready.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çHello Guest,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+
+MESSAGE>çthis is a test email, it comes with an attachment called Users.Tmp,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+
+MESSAGE>çthis attachment is a copy of and old User.INI temporary file![2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+
+MESSAGE>çThats all,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+Thats all,
+
+MESSAGE>çLawrence.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+Thats all,
+Lawrence.
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+->Sending message...
+GUEST@CENTRAL received message,1 file attachment(s) sent.
+
+guest>ç
+guest>çlist
+Unknown command.
+
+guest>ç,sg.list
+Unknown command.
+
+guest>çmod:msg
+'msg' module adopted.
+
+guest>çread
+Command requires an email index.
+
+guest>çlist
+
+Retrieving emails in inbox...
+
+0] Test Mail              From: GUEST@CENTRAL          (NEW)
+
+guest>çread 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [21:39:24]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+Thats all,
+Lawrence.
+
+guest>çlist
+
+Retrieving emails in inbox...
+
+0] Test Mail              From: GUEST@CENTRAL
+
+guest>çread 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 1
+         DATE SENT: 03/06/2005 [21:39:24]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+Hello Guest,
+this is a test email, it comes with an attachment called Users.Tmp,
+this attachment is a copy of and old User.INI temporary file!
+
+Thats all,
+Lawrence.
+
+guest>çlist
+
+Retrieving emails in inbox...
+
+0] Test Mail              From: GUEST@CENTRAL
+
+guest>çget 0
+
+Retrieving attachments...
+1 attachments retrieved.
+
+guest>çget 0
+
+Retrieving attachments...
+1 attachment(s) retrieved.
+
+guest>çmod:sys
+'sys' module adopted.
+
+guest>ç
+guest>çdir
+
+ Directory of GUEST
+
+MSG ATTACH                    [DIR]
+Users.tmp
+                            1 File(s)
+                            1 Dir(s)
+
+GUEST>çcd msg attach
+
+GUEST\MSG ATTACH>çdir
+
+ Directory of GUEST\MSG ATTACH
+
+Test Mail_624                 [DIR]
+Test Mail_510                 [DIR]
+                            0 File(s)
+                            2 Dir(s)
+
+GUEST\MSG ATTACH>çcd test mail_624
+
+GUEST\MSG ATTACH\TEST MAIL_624>çdir
+
+ Directory of GUEST\MSG ATTACH\TEST MAIL_624
+
+USERS.TMP
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST\MSG ATTACH\TEST MAIL_624>çmod:txt
+'txt' module adopted.
+
+GUEST\MSG ATTACH\TEST MAIL_624>çopen users.tmp
+File opened.
+
+GUEST\MSG ATTACH\TEST MAIL_624>çread
+File contents (page 1 of 1)...
+
+[USER0]
+USER=ad
+NAME=loz
+PASS=ad
+STATUS=100
+RIGHTS=200
+[SETUP]
+USERSNO=1
+
+
+GUEST\MSG ATTACH\TEST MAIL_624>ç

@@ -1,0 +1,99 @@
+[33m[40m[2J[H[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f
+
+CHAT>çexit
+Chatroom mode disabled.
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+
+anon>çmsg.new Test Message[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çadmin@central[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çdone[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çHello,[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hello,
+
+
+MESSAGE>çThis is a test email[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hello,
+This is a test email
+
+
+MESSAGE>çThankyou for co-oporating.[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hello,
+This is a test email
+Thankyou for co-oporating.
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Test Message
+-Number of Recipitents: 2
+-Number of Attachments: 0
+
+->Sending message...
+Module not responding.
+
+MESSAGE>ç

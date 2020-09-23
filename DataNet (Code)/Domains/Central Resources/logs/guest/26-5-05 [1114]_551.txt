@@ -1,0 +1,49 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+poo                           [DIR]
+                            1 File(s)
+                            1 Dir(s)
+
+GUEST>çmd pot
+Access Denied.
+
+GUEST>çmd pot\poo
+Path not found
+
+GUEST>çmd pot\poo
+Path not found.
+
+GUEST>çcd poo
+
+GUEST\POO>çdir
+
+ Directory of GUEST\POO
+
+                            0 File(s)
+                            0 Dir(s)
+
+GUEST\POO>çcd \
+
+GUEST>çdir
+
+ Directory of GUEST
+
+poo                           [DIR]
+                            1 File(s)
+                            1 Dir(s)
+
+GUEST>çrd poo
+Access Denied.
+
+GUEST>çcd poo
+
+GUEST\POO>ç

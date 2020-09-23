@@ -1,0 +1,12 @@
+SCR.FORC 2
+SCR.BAKC 0
+SCR.CLS
+Sys.Init
+Sys.Force 1
+Txt.Wrap 1
+Txt.Pnt 1
+mod:sys
+scr.echo
+scr.echo This domain has all of the 8 modules loaded,
+scr.echo to see which modules are loaded, type MODULES.
+scr.echo Please refer to the User Manual.PDF if you get stuck.

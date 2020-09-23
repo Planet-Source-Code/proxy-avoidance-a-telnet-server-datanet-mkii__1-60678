@@ -1,0 +1,20 @@
+[USER0]
+USER=guest
+NAME=Guest User
+PASS=
+STATUS=100
+RIGHTS=100
+[USER1]
+USER=admin
+NAME=System Administrator
+PASS=admin
+STATUS=100
+RIGHTS=400
+[USER2]
+USER=srvadmin
+NAME=Service Administrator
+PASS=admin
+STATUS=100
+RIGHTS=300
+[SETUP]
+USERSNO=3

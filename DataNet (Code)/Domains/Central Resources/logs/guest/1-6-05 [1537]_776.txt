@@ -1,0 +1,120 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmsg.new hi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT
+
+SEND TO>ç/[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT
+/
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çpoo.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çpooot.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çop.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çoyoyp.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 4
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çpop.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 5
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çd
+Module not responding.ghsh
+Module not responding.
+
+ATTACHMENT PATH>ç
+
+ATTACHMENT PATH>ç

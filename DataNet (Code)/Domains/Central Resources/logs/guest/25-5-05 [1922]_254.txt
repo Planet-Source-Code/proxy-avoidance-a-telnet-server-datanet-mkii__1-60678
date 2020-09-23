@@ -1,0 +1,109 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+GUEST>çdel \tray1.ico
+File not found.
+
+GUEST>çdel ..new.txt
+Bad file name or number.
+
+GUEST>çdel ..new
+Access Denied.
+
+GUEST>çdel new
+File not found.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+                            0 File(s)
+                            0 Dir(s)
+
+GUEST>çmd poo
+Directory created.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+poo                           [DIR]
+                            0 File(s)
+                            1 Dir(s)
+
+GUEST>çrd ..poo
+Access Denied.
+
+GUEST>çrd poo
+Directory deleted.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+                            0 File(s)
+                            0 Dir(s)
+
+GUEST>çhelp
+
+Help page for SYS module...
+INIT               -Initializes module, must be executed to use module.
+TIME               -Displays the time on the server.
+DATE               -Displays the date on the server.
+DIR                -Displays current directory contents.
+[Drive]:           -Switches to a different drive (system admin only).
+CD [Dir]           -Changes directory (by default uses the ':' wildcard).
+MD [DirPath]       -Creates a new directory.
+RD [DirPath]       -Deletes specified directory.
+COPY [FilePath]    -Copies specifed file(s) to current directory.
+DEL [FilePath]     -Deletes specifed file(s).
+FATR [FilePath]    -Changes the attributes to the specifed file(s).
+DATR [DirPath]     -Changes the attributes to the specifed folder.
+             [R][H] Replace the R and H with either 1 or 0 to set the attribs
+                    to the specified item (these come after the path).
+MOVE [FilePath]    -Copies specifed file(s) to current directory.
+FORCE [Option]     -Enables\disables forceful mode.
+                    0=Disabled [Default]
+                    1=Enabled
+
+EXAMPLES:           WILD CARDS:
+COPY ??llo.txt      ?=Variable character
+COPY *.txt          *=Variable name
+CD :Dir1            :=Abbreviation for the current dir.
+CD \                \=Abbreviation for the root dir.
+CD ..              ..=Abbreviation for the previus dir.
+
+GUEST>çhelp
+
+Help page for SYS module...
+INIT               -Initializes module, must be executed to use module.
+TIME               -Displays the time on the server.
+DATE               -Displays the date on the server.
+DIR                -Displays current directory contents.
+[Drive]:           -Switches to a different drive (system admin only).
+CD [Dir]           -Changes directory (by default uses the ':' wildcard).
+MD [DirPath]       -Creates a new directory.
+RD [DirPath]       -Deletes specified directory.
+COPY [FilePath]    -Copies specifed file(s) to current directory.
+DEL [FilePath]     -Deletes specifed file(s).
+FATR [FilePath]    -Changes the attributes to the specifed file(s).
+DATR [DirPath]     -Changes the attributes to the specifed folder.
+            [R] [H] Replace the R and H with either 1 or 0 to set the attribs
+                    to the specified item (these come after the path).
+MOVE [FilePath]    -Copies specifed file(s) to current directory.
+FORCE [Option]     -Enables\disables forceful mode.
+                    0=Disabled [Default]
+                    1=Enabled
+
+EXAMPLES:           WILD CARDS:
+COPY ??llo.txt      ?=Variable character
+COPY *.txt          *=Variable name
+CD :Dir1            :=Abbreviation for the current dir.
+CD \                \=Abbreviation for the root dir.
+CD ..              ..=Abbreviation for the previus dir.
+
+GUEST>ç

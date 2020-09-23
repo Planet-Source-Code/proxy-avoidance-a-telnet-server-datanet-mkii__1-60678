@@ -1,0 +1,28 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS\ADMIN>çscr.help
+
+Help page for SCR module...
+CLS                -Clears the screen.
+ECHO               -Displays specified text on screen.
+FORC [CODE]        -Sets the foreground colour.
+BAKC [CODE]        -Sets the background colour.
+                   -Colour codes:
+                    0=Black
+                    1=Red
+                    2=Green
+                    3=Yellow
+                    4=Blue
+                    5=Magenta
+                    6=Cyan
+                    7=White
+
+SCR commands do not return feedback if successfull,
+this is to benefit scripts and mods that use SCR commands.
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS\ADMIN>ç

@@ -1,0 +1,93 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+poo                           [DIR]
+                            0 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+                            0 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd ..
+Access Denied.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+                            0 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd \
+
+CENTRAL RESOURCES>çdir
+
+ Directory of CENTRAL RESOURCES
+
+logs                          [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES>çcd data
+Access Denied.
+
+CENTRAL RESOURCES>çcd users
+Access Denied.
+
+CENTRAL RESOURCES>çdir
+
+ Directory of CENTRAL RESOURCES
+
+Users                         [DIR]
+logs                          [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES>çcd users
+
+CENTRAL RESOURCES\USERS>çdir
+
+ Directory of CENTRAL RESOURCES\USERS
+
+admin                         [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES\USERS>çcd guest
+Access Denied.
+
+CENTRAL RESOURCES\USERS>çcd srvadmin
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+poo                           [DIR]
+New Text Document.txt
+                            1 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çtxt.open new text document.txt
+Access Denied.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\SRVADMIN
+
+poo                           [DIR]
+                            1 File(s)
+                            1 Dir(s)
+
+CENTRAL RESOURCES\USERS\SRVADMIN>ç

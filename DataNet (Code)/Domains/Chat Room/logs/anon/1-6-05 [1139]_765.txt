@@ -1,0 +1,23 @@
+[33m[40m[2J[H[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f
+
+CHAT>çexit
+Chatroom mode disabled.
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+
+anon>ç

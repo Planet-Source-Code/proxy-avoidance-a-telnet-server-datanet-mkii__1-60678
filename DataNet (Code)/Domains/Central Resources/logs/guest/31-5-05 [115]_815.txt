@@ -1,0 +1,412 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmsg.new Hi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: 
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: 
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: 
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çHello Dave[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: 
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hello Dave
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: 
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' does not exist.
+
+guest>çmsg.new oj[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+hi
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: oj
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' does not exist.
+
+guest>çmsg.new hi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+hi
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' does not exist.
+
+guest>çmsg.new HI[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çhi guys[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+hi guys
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: HI
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' does not exist.
+
+guest>çmsg.new
+Your message must have a title.
+
+guest>çmsg.new Hello[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çadmin@central[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Number of Recipitents: 2
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çHi Guys[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hi Guys
+
+
+MESSAGE>çThis is a test[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Number of Recipitents: 2
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+Hi Guys
+This is a test
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hello
+-Number of Recipitents: 2
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' received message.
+'ADMIN@CENTRAL' received message.
+
+guest>çmsg.new Hi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@central[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+hi
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CENTRAL' does not exist.
+
+guest>çmsg.new gay[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>çanon@chat[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Number of Recipitents: 1
+-Please enter the path of any files you wish to send. When you are finished
+ adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Number of Recipitents: 1
+-Number of Attachments: 0
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+hi
+
+
+MESSAGE>ç#[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: gay
+-Number of Recipitents: 1
+-Number of Attachments: 0
+
+->Sending message...
+'ANON@CHAT' received message.
+
+guest>çmsg.new
+Module not responding.
+
+guest>çmsg.new
+Your message must have a subject.
+
+guest>çmsg.new Test
+
+-Subject: Test
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç

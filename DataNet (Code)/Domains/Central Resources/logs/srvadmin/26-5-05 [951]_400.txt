@@ -1,0 +1,184 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+CENTRAL RESOURCES\USERS\SRVADMIN>çcd ..
+
+CENTRAL RESOURCES\USERS>çdir
+
+ Directory of CENTRAL RESOURCES\USERS
+
+admin                         [DIR]
+guest                         [DIR]
+srvadmin                      [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES\USERS>çcd guest
+
+CENTRAL RESOURCES\USERS\GUEST>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\GUEST
+
+New.txt
+                            1 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\GUEST>çatr
+Must specify a path, refer to sys.help.
+
+CENTRAL RESOURCES\USERS\GUEST>çsys.help
+
+Help page for SYS module...
+INIT               -Initializes module, must be executed to use module.
+TIME               -Displays the time on the server.
+DATE               -Displays the date on the server.
+DIR                -Displays current directory contents.
+[Drive]:           -Switches to a different drive (system admin only).
+CD [Dir]           -Changes directory (by default uses the ':' wildcard).
+MD [DirPath]       -Creates a new directory.
+RD [DirPath]       -Deletes specified directory.
+COPY [FilePath]    -Copies specifed file(s) to current directory.
+DEL [FilePath]     -Deletes specifed file(s).
+ATR [Path]         -Changes the attributes to the specifed item(s).
+         :[R] :[H]  Replace the R and H with either 1 or 0 to set the attribs
+                    to the specified item (these come after the path).
+ATR Text.txt :0 :1  This example would set the txt file to hidden.
+MOVE [FilePath]    -Copies specifed file(s) to current directory.
+FORCE [Option]     -Enables\disables forceful mode.
+                    0=Disabled [Default]
+                    1=Enabled
+
+EXAMPLES:           WILD CARDS:
+COPY ??llo.txt      ?=Variable character
+COPY *.txt          *=Variable name
+CD :Dir1            :=Abbreviation for the current dir.
+CD \                \=Abbreviation for the root dir.
+CD ..              ..=Abbreviation for the previus dir.
+
+CENTRAL RESOURCES\USERS\GUEST>çdir
+
+ Directory of CENTRAL RESOURCES\USERS\GUEST
+
+New.txt
+                            1 File(s)
+                            0 Dir(s)
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :1
+Specified file/folder does not exist.
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :1
+Specified file/folder does not exist.
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :1
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt
+Item attributes... False
+READ-ONLY: False
+HIDDEN:    True
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :1
+Item attributes... False
+READ-ONLY: False
+HIDDEN:    True
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :1 :1
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt
+Item attributes... True
+READ-ONLY: True
+HIDDEN:    True
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    True
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :1 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :1 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :0
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    False
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :1
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    True
+SYSTEM:    False
+
+CENTRAL RESOURCES\USERS\GUEST>çatr new.txt :0 :1
+Item attributes... 
+READ-ONLY: False
+HIDDEN:    True
+
+CENTRAL RESOURCES\USERS\GUEST>çcd ..
+
+CENTRAL RESOURCES\USERS>çdir
+
+ Directory of CENTRAL RESOURCES\USERS
+
+admin                         [DIR]
+guest                         [DIR]
+srvadmin                      [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES\USERS>çatr guest :1 :0
+Item attributes... 
+READ-ONLY: True
+HIDDEN:    False
+
+CENTRAL RESOURCES\USERS>çdir
+
+ Directory of CENTRAL RESOURCES\USERS
+
+admin                         [DIR]
+guest                         [DIR]
+srvadmin                      [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+CENTRAL RESOURCES\USERS>ç

@@ -1,0 +1,19 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmsg.new Hi[2J[H
+ <:::::::::::::::::::MESSAGE MODULE - TYPE 'EXIT' TO QUIT:::::::::::::::::::>
+
+-Subject: Hi
+-Please enter the username of the recipitent. When you are finished
+ adding users, type #
+
+SEND TO>ç

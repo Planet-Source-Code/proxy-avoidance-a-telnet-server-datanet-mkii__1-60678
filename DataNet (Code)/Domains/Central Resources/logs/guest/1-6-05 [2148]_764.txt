@@ -1,0 +1,36 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çdir
+
+ Directory of GUEST
+
+Users.tmp
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST>çtxt.open users.tmp
+File opened.
+
+GUEST>çtxt.read
+File contents (page 1 of 1)...
+
+0  : [USER0]
+9  : USER=ad
+18 : NAME=loz
+28 : PASS=ad
+37 : STATUS=100
+49 : RIGHTS=200
+61 : [SETUP]
+70 : USERSNO=1
+81 : 
+
+GUEST>ç

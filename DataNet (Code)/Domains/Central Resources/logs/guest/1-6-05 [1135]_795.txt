@@ -1,0 +1,159 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmod:msg
+'msg' module adopted.
+
+GUEST>çlist
+GUEST>ç
+
+Retreiving emails in inbox...
+
+
+GUEST>çlist
+
+Retreiving emails in inbox...
+
+
+GUEST>çnew Hi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT
+
+SEND TO>çfsh[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT
+FSH
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çhi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çytui[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter your message. When you are finished type #
+hi
+
+
+MESSAGE>çguys[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+Please enter your message. When you are finished type #
+hi
+guys
+
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Hi
+===========================================================================
+
+->Sending message...
+'ANON@CHAT' received message.
+'FSH' is an invalid address.
+
+guest>ç
+guest>çlist
+
+Retreiving emails in inbox...
+
+
+guest>çlist
+
+Retreiving emails in inbox...
+
+
+guest>çlist
+
+Retreiving emails in inbox...
+
+
+guest>ç

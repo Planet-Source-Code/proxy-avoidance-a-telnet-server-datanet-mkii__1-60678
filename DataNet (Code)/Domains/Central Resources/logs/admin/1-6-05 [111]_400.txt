@@ -1,0 +1,143 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS\ADMIN>çcd ..
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>çdir
+
+ Directory of E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS
+
+admin                         [DIR]
+guest                         [DIR]
+srvadmin                      [DIR]
+                            0 File(s)
+                            3 Dir(s)
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>ç
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>ç
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>çpro.list
+
+-System process list...
+PID   : APPLICATION TITLE
+0     : [System Process]
+4     : System
+668   : smss.exe
+740   : csrss.exe
+764   : winlogon.exe
+808   : services.exe
+820   : lsass.exe
+972   : ati2evxx.exe
+988   : svchost.exe
+1088  : svchost.exe
+1196  : svchost.exe
+1296  : svchost.exe
+1436  : svchost.exe
+1624  : spoolsv.exe
+1656  : CCEVTMGR.EXE
+1668  : NISUM.EXE
+600   : ati2evxx.exe
+692   : explorer.exe
+1052  : CLI.exe
+1128  : ccApp.exe
+1148  : mixer.exe
+1324  : daemon.exe
+1344  : LiveUp.exe
+1396  : srxTray.exe
+1404  : jusched.exe
+1256  : acrotray.exe
+1188  : hpwuSchd.exe
+1204  : CamTray.exe
+1032  : ctfmon.exe
+1544  : msnmsgr.exe
+1824  : Update.exe
+1844  : CCPXYSVC.EXE
+1972  : MDM.EXE
+360   : CLI.exe
+424   : hpqtra08.exe
+1576  : srxTitan.exe
+2012  : svchost.exe
+2040  : wdfmgr.exe
+2132  : SymWSC.exe
+2552  : wscntfy.exe
+3124  : alg.exe
+3568  : Ymsgr_tray.exe
+3792  : wmplayer.exe
+3276  : dllhost.exe
+2920  : msdtc.exe
+1992  : Sys.exe
+384   : telnet2000.exe
+2544  : vb6.exe
+2388  : vb6.exe
+2540  : vb6.exe
+2532  : telnet2000.exe
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>çpro.kill 384
+Process killed.
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>çpro.list
+
+-System process list...
+PID   : APPLICATION TITLE
+0     : [System Process]
+4     : System
+668   : smss.exe
+740   : csrss.exe
+764   : winlogon.exe
+808   : services.exe
+820   : lsass.exe
+972   : ati2evxx.exe
+988   : svchost.exe
+1088  : svchost.exe
+1196  : svchost.exe
+1296  : svchost.exe
+1436  : svchost.exe
+1624  : spoolsv.exe
+1656  : CCEVTMGR.EXE
+1668  : NISUM.EXE
+600   : ati2evxx.exe
+692   : explorer.exe
+1052  : CLI.exe
+1128  : ccApp.exe
+1148  : mixer.exe
+1324  : daemon.exe
+1344  : LiveUp.exe
+1396  : srxTray.exe
+1404  : jusched.exe
+1256  : acrotray.exe
+1188  : hpwuSchd.exe
+1204  : CamTray.exe
+1032  : ctfmon.exe
+1544  : msnmsgr.exe
+1824  : Update.exe
+1844  : CCPXYSVC.EXE
+1972  : MDM.EXE
+360   : CLI.exe
+424   : hpqtra08.exe
+1576  : srxTitan.exe
+2012  : svchost.exe
+2040  : wdfmgr.exe
+2132  : SymWSC.exe
+2552  : wscntfy.exe
+3124  : alg.exe
+3568  : Ymsgr_tray.exe
+3792  : wmplayer.exe
+3276  : dllhost.exe
+2920  : msdtc.exe
+1992  : Sys.exe
+2544  : vb6.exe
+2388  : vb6.exe
+2540  : vb6.exe
+2532  : telnet2000.exe
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>çses.exit
+Termination initiated.
+
+E:\DATANET\DATANET (CODE)\DOMAINS\CENTRAL RESOURCES\USERS>ç

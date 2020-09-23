@@ -1,0 +1,1096 @@
+[32m[40m[2J[H
+System module initialized.
+Force enabled.
+Text wrapping enabled.
+Pointers enabled.
+'sys' module adopted.
+
+This domain has all of the 8 modules loaded,
+to see which modules are loaded, type MODULES.
+Please refer to the User Manual.PDF if you get stuck.
+
+GUEST>çmsg.new Test Mail[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çguest[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+
+SEND TO>çguest@central[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+
+SEND TO>çadno@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+'ADNO@CHAT' does not exist.
+
+SEND TO>çafor@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 4
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+
+SEND TO>çanon@chart[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 5
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+ANON@CHART does not exist.
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 6
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+ANON@CHART does not exist.
+ANON@CHAT is a valid address.
+
+SEND TO>çadmin@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 7
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+ANON@CHART does not exist.
+ANON@CHAT is a valid address.
+ADMIN@CHAT does not exist.
+
+SEND TO>çadmin@central[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+GUEST is an invalid address.
+GUEST@CENTRAL is a valid address.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+ANON@CHART does not exist.
+ANON@CHAT is a valid address.
+ADMIN@CHAT does not exist.
+ADMIN@CENTRAL is a valid address.
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çpoo.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>çpoo.txt[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - File does not exist.
+GUEST\POO.TXT - File does not exist.
+
+ATTACHMENT PATH>ç
+Invalid path.
+
+ATTACHMENT PATH>çfjfitf[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç
+Invalid path.
+
+ATTACHMENT PATH>ç
+Invalid path.
+
+ATTACHMENT PATH>ç
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+GUEST\POO.TXT - Does not exist.
+GUEST\POO.TXT - Does not exist.
+GUEST\FJFITF - Does not exist.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çhi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+hi
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+Please enter your message. When you are finished type #
+
+hi
+
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 8
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+->Sending message...
+GUEST is an invalid address.
+GUEST@CENTRAL received message, not all of the file attachments were sent.
+ADNO@CHAT does not exist.
+AFOR@CHAT does not exist.
+ANON@CHART does not exist.
+ANON@CHAT received message, not all of the file attachments were sent.
+ADMIN@CHAT does not exist.
+ADMIN@CENTRAL received message, not all of the file attachments were sent.
+
+guest>ç
+guest>çmsg.new poo[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>ç
+Invalid username.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çpoop@anon[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+
+SEND TO>çfagaga[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+FAGAGA - Invalid address.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+FAGAGA - Invalid address.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 2
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+FAGAGA - Invalid address.
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+FAGAGA - Invalid address.
+ANON@CHAT - Valid address.
+
+SEND TO>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+POOP@ANON - Does not exist.
+FAGAGA - Invalid address.
+ANON@CHAT - Valid address.
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çpono[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\PONO - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\PONO - Does not exist.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+
+
+MESSAGE>çhi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+
+hi
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+
+hi
+
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+
+
+
+hi
+
+
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 3
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+->Sending message...
+POOP@ANON does not exist.
+FAGAGA is an invalid address.
+ANON@CHAT received message, not all file attachments were sent.
+
+guest>ç
+guest>ç
+guest>ç
+guest>ç
+guest>ç
+guest>ç
+guest>ç
+guest>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Tester                 From: GUEST@CENTRAL          (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+
+guest>çmsg.read 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [21:45:21]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Tester
+===========================================================================
+
+mvgxc
+xvxvcx#
+gnbvnggbngngng
+hfgngnxvcncvnc#
+
+guest>çmsg.read 1
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 3
+         DATE SENT: 03/06/2005 [15:05:50]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+hi
+
+
+guest>çdir
+
+ Directory of GUEST
+
+Users.tmp
+                            1 File(s)
+                            0 Dir(s)
+
+GUEST>çmsg.new Attach[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT - Valid address.
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çusers.tmp[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - Does not exist.
+
+ATTACHMENT PATH>çuser.tmp[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 2
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - Does not exist.
+GUEST\USER.TMP - Does not exist.
+
+ATTACHMENT PATH>çuser.tmp[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - Does not exist.
+GUEST\USER.TMP - Does not exist.
+GUEST\USER.TMP - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - OK
+GUEST\USER.TMP - Does not exist.
+GUEST\USER.TMP - Does not exist.
+
+ATTACHMENT PATH>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - File ready.
+GUEST\USER.TMP - Does not exist.
+GUEST\USER.TMP - Does not exist.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çHi,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hi,
+
+MESSAGE>çthis is an attachment[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hi,
+this is an attachment
+
+MESSAGE>çthank[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hi,
+this is an attachment
+thank
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 3
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Attach
+===========================================================================
+
+->Sending message...
+ANON@CHAT received message, not all file attachments were sent.
+
+guest>çmsg.new poo[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT - Valid address.
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>çusers.tmp[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+GUEST\USERS.TMP - File ready.
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çHello lads.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello lads.
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 1
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: poo
+===========================================================================
+
+->Sending message...
+ANON@CHAT received message, file attachments sent.
+
+guest>ç
+guest>ç
+guest>çmod:msg
+'msg' module adopted.
+
+guest>çlist
+
+Retrieving emails in inbox...
+
+0] Tester                 From: GUEST@CENTRAL          (NEW)
+1] Test Mail              From: GUEST@CENTRAL          (NEW)
+
+guest>çdel 0
+
+Retrieving emails in inbox...
+
+Email deleted.
+
+guest>çread 1
+Invalid index, type MSG.LIST.
+
+guest>çread 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 3
+         DATE SENT: 03/06/2005 [15:05:50]
+              FROM: GUEST@CENTRAL
+
+           SUBJECT: Test Mail
+===========================================================================
+
+hi
+
+
+guest>çdel 0
+Could not delete email.
+
+guest>çread 0
+Could not read email.
+
+guest>çlist
+
+Retrieving emails in inbox...
+
+0] Test Mail              From: GUEST@CENTRAL
+
+guest>çdel 0
+Email deleted.
+
+guest>ç

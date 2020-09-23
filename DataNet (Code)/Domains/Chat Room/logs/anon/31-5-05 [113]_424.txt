@@ -1,0 +1,17 @@
+[33m[40m[2J[H[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f
+
+CHAT>çexit
+Chatroom mode disabled.
+
+anon>çmsg.help
+
+Help page for MSG module...
+NEW [Subject]      -Creates a new email.
+LIST               -Lists all emails in your inbox.
+READ [Index]       -Reads specified email.
+GET [Index]        -Retreives attachments from specified email.
+DEL [Index]        -Deletes specified email.
+
+anon>ç

@@ -1,0 +1,306 @@
+[33m[40m[2J[H[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f[2J[H <:::::::::::::::::::DOMAIN CHATROOM - TYPE 'EXIT' TO LEAVE:::::::::::::::::::>
+[22;1f
+
+CHAT>çexit
+Chatroom mode disabled.
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+
+anon>çmsg.new Test Local[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çanon@chat[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ANON@CHAT
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çHi[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter your message. When you are finished type #
+Hi
+
+
+MESSAGE>çThis is a test message.[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Please enter your message. When you are finished type #
+Hi
+This is a test message.
+
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+
+->Sending message...
+'ANON@CHAT' received message.
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+
+anon>çmsg.read 0
+Could not read email.
+
+anon>çmsg.read 0
+Could not read email.
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+
+anon>çmsg.read 0
+Could not read email.
+
+anon>çmsg.read 0[2J[H
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+0
+
+anon>çmsg.read 0
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+0
+
+anon>çmsg.read 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+0
+
+anon>çmsg.read 0
+
+-MESSAGE (CONFIDENTIAL)----------------------------------------------------
+NO. OF ATTACHMENTS: 0
+         DATE SENT: 01/06/2005 [15:20:58]
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Local
+===========================================================================
+Hi
+This is a test message.
+
+
+anon>çmsg.new Test Message[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 0
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+
+SEND TO>çadmin@central[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter the username of the recipitent. When you are finished
+adding users, type #
+ADMIN@CENTRAL
+
+SEND TO>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter the path of any files you wish to send. When you are finished
+adding files, type #
+
+ATTACHMENT PATH>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished, type #
+
+MESSAGE>çHello Admin,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Admin,
+
+MESSAGE>çI would like to know if it would be possible to get an account on the Central Resources Domain?[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Admin,
+I would like to know if it would be possible to get an account on the Central Resources Domain?
+
+MESSAGE>ç[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Admin,
+I would like to know if it would be possible to get an account on the Central Resources Domain?
+
+
+MESSAGE>çThanks,[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Admin,
+I would like to know if it would be possible to get an account on the Central Resources Domain?
+
+Thanks,
+
+MESSAGE>çPlease Reply - Lawrence[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+Please enter your message. When you are finished type #
+
+Hello Admin,
+I would like to know if it would be possible to get an account on the Central Resources Domain?
+
+Thanks,
+Please Reply - Lawrence
+
+MESSAGE>ç#[2J[H
+-WRITE NEW MESSAGE---------------------------------------------------------
+NO. OF RECIPITENTS: 1
+NO. OF ATTACHMENTS: 0
+              FROM: ANON@CHAT
+
+           SUBJECT: Test Message
+===========================================================================
+
+->Sending message...
+'ADMIN@CENTRAL' received message.
+
+anon>ç
+anon>ç
+anon>ç
+anon>çmsg.list
+
+Retreiving emails in inbox...
+
+0] Test Local             From: ANON@CHAT              (NEW)
+
+anon>ç

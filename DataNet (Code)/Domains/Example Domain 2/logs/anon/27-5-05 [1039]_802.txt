@@ -1,0 +1,63 @@
+
+The script for this domain will display the current
+user's Director contents using the SYS dir command:
+System module initialized.
+Force enabled.
+
+ Directory of ANON
+
+                            0 File(s)
+                            0 Dir(s)
+
+'sys' module adopted.
+
+This example domain only has four of the
+eight modules loaded, to see which modules
+are loaded, type MODULES
+
+ANON>çmodules
+
+Loaded module listing...
+
+SCR:
+Member of the Standard control library; the screen (scr)
+module holds a range of commands that enables the user
+to manipulate their display/terminal.
+Command list: scr.help
+---
+SYS:
+Member of the Standard control library; the system (sys)
+module holds a range of commands that enables the user
+to carry out system processes files.
+Command list: sys.help
+---
+TXT:
+Member of the Standard control library; the text (txt)
+module holds a range of commands that enables the user
+to write to files, and read them.
+Command list: txt.help
+---
+EXE:
+Member of the Standard control library; the execute (exe)
+module holds a few of commands that enables the user
+to execute console apps and scripts.
+Command list: exe.help
+---
+Module listing complete.
+
+ANON>çexe.help
+
+Help page for EXE module...
+SHELL               -Executes a console application.
+SCRPT [Path] [Arg]  -Executes a DataNet script.
+
+ANON>çshell
+Unknown command.
+
+ANON>çexe.shell
+Command still under construction.
+
+ANON>çexe.scrpt
+Must specify script's path.
+
+ANON>ç
